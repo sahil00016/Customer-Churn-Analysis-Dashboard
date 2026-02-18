@@ -86,6 +86,10 @@ This project demonstrates the ability to analyze customer behavior data, extract
 
 ---
 
+<img width="1426" height="812" alt="image" src="https://github.com/user-attachments/assets/2b2c8394-0520-4131-9e7c-36a37be776e7" />
+
+
 ## Author
 Data Analytics Portfolio Project
+
 
