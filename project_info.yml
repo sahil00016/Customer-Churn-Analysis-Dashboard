@@ -1,0 +1,36 @@
+project:
+  name: Customer Churn Analysis Dashboard
+  domain: Data Analytics
+  type: Business Intelligence Project
+
+dataset:
+  industry: Telecom
+  level: Customer
+  format: CSV
+
+objectives:
+  - Analyze churn patterns
+  - Identify high-risk segments
+  - Evaluate pricing impact
+  - Study contract influence
+
+workflow:
+  - Data loading
+  - Data validation
+  - KPI calculation
+  - Visualization
+  - Insight extraction
+
+tools:
+  - Power BI
+
+skills_demonstrated:
+  - Data Analysis
+  - Business Intelligence
+  - KPI Design
+  - Data Visualization
+  - Insight Generation
+
+output:
+  dataset: dataset.csv
+  insights: insights.txt

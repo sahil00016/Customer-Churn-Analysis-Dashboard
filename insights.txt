@@ -1,0 +1,24 @@
+CUSTOMER CHURN ANALYSIS — FINDINGS
+
+Summary
+The analysis evaluates customer churn patterns to identify risk segments and retention opportunities.
+
+Major Findings
+- Customers with short tenure show significantly higher churn probability.
+- Month-to-month contracts experience the highest churn.
+- Higher monthly charges correlate with increased churn likelihood.
+- Certain internet service categories show elevated churn rates.
+
+Behavior Patterns
+- New customers are most vulnerable to churn.
+- Long-term contract customers are more stable.
+- Customers paying higher charges without additional services show increased risk.
+
+Business Implications
+- Early engagement programs should be implemented for new customers.
+- Long-term contract incentives can improve retention.
+- Pricing adjustments may reduce churn among high-cost segments.
+- Service bundles could reduce churn probability.
+
+Conclusion
+Customer churn is strongly influenced by contract type, tenure, and pricing. Businesses can significantly reduce churn by targeting high-risk segments with tailored retention strategies.
